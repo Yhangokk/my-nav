@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "my-nav",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "17d6c4a2-f7f2-430d-b767-784ce084f2c7",
+			"database_name": "blog"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
